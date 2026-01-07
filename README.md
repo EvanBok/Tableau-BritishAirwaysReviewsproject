@@ -5,6 +5,5 @@ Interact in Tableau Public here: https://public.tableau.com/views/BritishAirways
 
 OR
 
-Interact in Tableau Desktop here: **[British Airways Review project -Evan Bok.twbx](British Airways Review project -Evan Bok.twbx)**
+Interact in Tableau Desktop here: **[British Airways Review project - Evan Bok.twbx](British%20Airways%20Review%20project%20-%20Evan%20Bok.twbx)**
 
-[British_Airways_Review_Project_Evan_Bok.twbx](British_Airways_Review_Project_Evan_Bok.twbx)
